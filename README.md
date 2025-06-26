@@ -38,6 +38,6 @@ I'm currently pursuing a Computer Science degree at IFMA. I really enjoy back-en
   </table>
 </div>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&section=footer&reversal=false&textBg=false&animation=fadeIn"/>
