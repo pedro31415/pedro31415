@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-end Developer
 ------------------
 
-I'm currently pursuing a Computer Science degree at IFMA. I really enjoy back-end development, but I've also practiced a bit of front-end, and I like working with data.
+I am currently studying Computer Science at IFMA. I am currently a Jr Backend Developer, and I am a lover of the Data Science area.
 
 * 🌍  I'm based in Imperatriz - MA
 * ✉️  You can contact me at [pedrohacardoso314@gmail.com](mailto:pedrohacardoso314@gmail.com)
@@ -14,7 +14,7 @@ I'm currently pursuing a Computer Science degree at IFMA. I really enjoy back-en
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,go,java,js,python,r,ts,vscode,html,css,react,tailwind,bootstrap,vite,nodejs,express,spring,nestjs,mongodb,mysql,postgresql,git,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=linux,latex,laravel,php,c,go,java,js,python,ts,vscode,html,css,react,tailwind,bootstrap,nodejs,express,spring,nestjs,mongodb,mysql,postgresql,git,docker,figma,postman,notion,discord" />
 </p>
 
 ---
